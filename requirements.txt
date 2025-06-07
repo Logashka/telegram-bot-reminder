@@ -1,2 +1,3 @@
 aiogram==3.4.1
+aiogram-calendar==2.0.1
 python-dotenv==1.0.1
